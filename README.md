@@ -1,3 +1,3 @@
 # Java Fundamentals
 
-Learning and practicing the fundamentals of the Java prgramming lanaguage through the Makers [repo](https://github.com/makersacademy/java-fundamentals).
+Learning and practicing the fundamentals of the Java programming language through [this](https://github.com/makersacademy/java-fundamentals) Makers repo.
