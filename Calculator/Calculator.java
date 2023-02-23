@@ -1,4 +1,3 @@
-package src;
 class Calculator {
     public static void main(String[] args) {
       Integer result = 2 + 2;
